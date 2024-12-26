@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/imdb-clone/static/css/main.f855e6bc.css",
-    "main.js": "/imdb-clone/static/js/main.e6be1e0c.js",
+    "main.js": "/imdb-clone/static/js/main.2db45dd0.js",
     "static/js/453.00d8c286.chunk.js": "/imdb-clone/static/js/453.00d8c286.chunk.js",
     "static/media/avengers.png": "/imdb-clone/static/media/avengers.a167af4469ec58d76a21.png",
     "static/media/logo.png": "/imdb-clone/static/media/logo.6b67fa9cc097cca74197.png",
     "static/media/logo.svg": "/imdb-clone/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/imdb-clone/index.html",
     "main.f855e6bc.css.map": "/imdb-clone/static/css/main.f855e6bc.css.map",
-    "main.e6be1e0c.js.map": "/imdb-clone/static/js/main.e6be1e0c.js.map",
+    "main.2db45dd0.js.map": "/imdb-clone/static/js/main.2db45dd0.js.map",
     "453.00d8c286.chunk.js.map": "/imdb-clone/static/js/453.00d8c286.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.e6be1e0c.js"
+    "static/js/main.2db45dd0.js"
   ]
 }
