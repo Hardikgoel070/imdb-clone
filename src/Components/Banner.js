@@ -9,7 +9,7 @@ function Banner() {
     useEffect(function(){
         //AXIOS is a way of communication of react app to any api
         //axios return something as promise to a request that why .then done
-        axios.get("https://api.themoviedb.org/3/trending/movie/week?api_key=a54b82f015e7e5494080fe93e12f9554&page=1").then((res)=>
+        axios.get("https://api.themoviedb.org/3/trending/movie/week?api_key=8b4a26bdcd1fe17855b30cd3559fc5ee&page=1").then((res)=>
             {   //console.table(res.data.results)
                 setMovie(res.data.results[0]);//response.data.results
             })
