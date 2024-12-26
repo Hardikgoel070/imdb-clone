@@ -8,7 +8,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom';
 import Favourites from './Components/Favourites';
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename="/imdb-clone">
     <Navbar></Navbar>
     <Routes>
       <Route path='/' element={<><Banner/><Trending/></>}></Route>

@@ -31,7 +31,7 @@ function Trending() {
         setFavourites([...oldFav])}
 
         
-        axios.get(`https://api.themoviedb.org/3/trending/movie/week?api_key=5876e07086b6cc9595096f4aae33f992&page=${page}`).then((res)=>
+        axios.get(`https://api.themoviedb.org/3/trending/movie/week?api_key=a54b82f015e7e5494080fe93e12f9554&page=${page}`).then((res)=>
             {   //console.table(res.data.results)
                 setMovies(res.data.results);
                 
